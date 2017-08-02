@@ -1,0 +1,21 @@
+
+body{font-family: "freesans";
+	}
+.header{background-color: #55C744;
+	color: white;
+	font-size: 2vh;
+	text-align: center;
+	padding: 10px;
+	} 	
+.row{
+	clear: both;
+	}
+.img{
+	max-width: 100%;
+	}
+.cell{
+	float: left;
+	padding: 20px;
+	box-sizing: border-box;
+	 width: 33%;
+}
